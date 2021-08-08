@@ -1,7 +1,7 @@
 {
   "name": "CalculateClientSecurityHash",
   "description": "REFramework Deep dive project",
-  "main": "Main.xaml",
+  "main": "Tests\\Main.xaml",
   "dependencies": {
     "UiPath.Credentials.Activities": "[1.1.6479.13204]",
     "UiPath.Excel.Activities": "[2.10.4]",
@@ -42,8 +42,8 @@
   "expressionLanguage": "VisualBasic",
   "entryPoints": [
     {
-      "filePath": "Main.xaml",
-      "uniqueId": "b5144ab5-fa13-4b6e-bdad-d05142e2d709",
+      "filePath": "Tests\\Main.xaml",
+      "uniqueId": "06577f74-5e57-4764-9457-b93ceedcee7c",
       "input": [],
       "output": []
     }
